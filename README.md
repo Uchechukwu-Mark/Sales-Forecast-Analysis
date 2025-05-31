@@ -1,5 +1,5 @@
-**Sales-Forecast-Analysis Report**
-
+****Sales-Forecast-Analysis Report**
+**
 This project focuses on uncovering key business insights from historical sales data and building a forecast model to aid strategic planning using Power BI.
 
 **🔹 Key Findings from Historical Data**
@@ -42,15 +42,15 @@ The forecast model suggests steady revenue performance across both quarters with
 **Product with Lowest Revenue:** Toys
 
 **📌 Visuals Used**
-Line Chart with Forecast: Actual vs Predicted Revenue
+**Line Chart with Forecast:** Actual vs Predicted Revenue
 
-Bar Chart: Average Monthly Revenue
+**Bar Chart:** Average Monthly Revenue
 
-Treemap: Revenue by Product Category
+**Treemap:** Revenue by Product Category
 
-Cards/KPI: Total Revenue, Target Revenue
+**Cards/KPI:** Total Revenue, Target Revenue
 
-Trend Line by Month: Actual Revenue and Forecasted Revenue
+**Trend Line by Month:** Actual Revenue and Forecasted Revenue
 
 **🎯 Business Implication**
 The strong performance in 2024, combined with continued growth projected into 2025, positions the business for strategic expansion. Special focus on:
