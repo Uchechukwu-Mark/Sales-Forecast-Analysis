@@ -1,5 +1,5 @@
 **Sales-Forecast-Analysis Report**
-
+![Screenshot 2025-05-31 121902](https://github.com/user-attachments/assets/007c6a18-3c26-4501-85be-91b43c883b22)
 This project focuses on uncovering key business insights from historical sales data and building a forecast model to aid strategic planning using Power BI.
 
 **🔹 Key Findings from Historical Data**
@@ -60,5 +60,6 @@ Maximizing sales in October
 Boosting electronics inventory and marketing
 
 Exploring the East region further
+
 
 By integrating this forecast with operational decisions, the company can enhance resource allocation, marketing focus, and seasonal planning.
