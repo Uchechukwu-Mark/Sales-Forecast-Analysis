@@ -1,5 +1,5 @@
-****Sales-Forecast-Analysis Report**
-**
+****Sales-Forecast-Analysis Report****
+
 This project focuses on uncovering key business insights from historical sales data and building a forecast model to aid strategic planning using Power BI.
 
 **🔹 Key Findings from Historical Data**
